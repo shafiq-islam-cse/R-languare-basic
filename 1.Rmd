@@ -1,0 +1,6 @@
+# Basic R program to find sum of two numbers.
+a <- 50
+b <- 50
+c<-a+b
+print("sum of a = 50 and b =50 is = ")
+print(c)
